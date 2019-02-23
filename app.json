@@ -23,6 +23,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.gsmlg.beijingAQI",
       "supportsTablet": true
     }
   }
